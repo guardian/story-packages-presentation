@@ -1,10 +1,8 @@
 # story-packages-presentation
 
-[ ![Download](https://api.bintray.com/packages/guardian/story-packages/story-packages-presentation/images/download.svg) ](https://bintray.com/guardian/story-packages/story-packages-presentation/_latestVersion)
+[ ![Download](https://api.bintray.com/packages/guardian/story-packages/story-packages-presentation/images/download.svg) ](https://bintray.com/guardian/story-packages/story-packages-presentation/_latestVersion) [![Build Status](https://travis-ci.org/guardian/story-packages-presentation.svg?branch=master)](https://travis-ci.org/guardian/story-packages-presentation)
 
 Takes care of the transformation logic to convert from a story package as returned by CAPI into something that can easily be rendered in frontend/MAPI.
-
-TODO Travis
 
 ## How to use
 
